@@ -39,7 +39,7 @@
   background: url(./icons/answer.svg) no-repeat;
 }
 .answerWrap {
-  width: calc(100% - 80px);
+  max-width: calc(100% - 80px);
 }
 .answerWrap .itemOperation {
   display: none;
